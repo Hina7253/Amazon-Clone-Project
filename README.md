@@ -64,7 +64,7 @@ Below is a preview of the Amazon clone homepage created:
 
 ## 🙋‍♀️ Author
 
-**Hina Kumari**  
+**Hina**  
 📌 BCA 2nd Year Student | Aspiring Software Developer  
 🔗 GitHub: [Hina7253]  
 🔗 LinkedIn: [https://www.linkedin.com/in/hina-569635334]
